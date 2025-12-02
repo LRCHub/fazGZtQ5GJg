@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "ノーザンクロス",
+  "base_artist": "シェリル・ノーム starring May'n",
+  "createdAt": "2025-12-02T01:10:13.710037Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/01_ノーザンクロス_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/02_ノーザンクロス_May'n.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/03_ノーザンクロス_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "Walkure",
+      "has_synced": true,
+      "path": "select/04_ノーザンクロス_Walkure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "B.U.S",
+      "has_synced": false,
+      "path": "select/05_ノーザンクロス_B.U.S.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May’n",
+      "has_synced": true,
+      "path": "select/06_ノーザンクロス_シェリル・ノーム_starring_May’n.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム",
+      "has_synced": true,
+      "path": "select/07_ノーザンクロス_シェリル・ノーム.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム",
+      "has_synced": true,
+      "path": "select/08_ノーザンクロス_シェリル・ノーム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム",
+      "has_synced": true,
+      "path": "select/09_ノーザンクロス_シェリル・ノーム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ノーザンクロス without vocals",
+      "artist": "シェリル・ノーム",
+      "has_synced": true,
+      "path": "select/10_ノーザンクロス_without_vocals_シェリル・ノーム.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/11_ノーザンクロス_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/12_ノーザンクロス_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/13_ノーザンクロス_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ノーザンクロス [instrumental]",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/14_ノーザンクロス_[instrumental]_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ノーザンクロス  シェリル・ノーム starring May'n",
+      "artist": "May'n／中島 愛",
+      "has_synced": true,
+      "path": "select/15_ノーザンクロス_シェリル・ノーム_starring_May'n_May'n_中島_愛.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/16_ノーザンクロス_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May’n",
+      "has_synced": true,
+      "path": "select/17_ノーザンクロス_シェリル・ノーム_starring_May’n.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ノーザンクロス",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/18_ノーザンクロス_May'n.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": false,
+      "path": "select/pl_01_ノーザンクロス_シェリル・ノーム_starring_May'n.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": false,
+      "path": "select/pl_02_ノーザンクロス_シェリル・ノーム_starring_May'n.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": false,
+      "path": "select/pl_03_ノーザンクロス_シェリル・ノーム_starring_May'n.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ノーザンクロス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": false,
+      "path": "select/pl_04_ノーザンクロス_シェリル・ノーム_starring_May'n.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Northern Cross",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": false,
+      "path": "select/pl_05_Northern_Cross_シェリル・ノーム_starring_May'n.txt"
+    }
+  ]
+}
